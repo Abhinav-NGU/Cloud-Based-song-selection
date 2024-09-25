@@ -21,7 +21,7 @@ Static Audio Hosting: Songs are hosted within the app’s static files, ensuring
 
 bash
 Copy code
-git clone https://github.com/Aalbin-Joseph/Song_Player.git  
+git clone   
 cd Song_Player  
 2. Install dependencies:
 
