@@ -21,8 +21,8 @@ Static Audio Hosting: Songs are hosted within the app’s static files, ensuring
 
 bash
 Copy code
-git clone   
-cd Song_Player  
+git clone https://github.com/Abhinav-NGU/Cloud-Songs-media.git  
+cd Cloud-Songs-media  
 2. Install dependencies:
 
 bash
